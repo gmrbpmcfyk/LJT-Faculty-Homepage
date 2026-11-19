@@ -18,16 +18,16 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 ## Academic Background
 
-- **Ph.D. in Computer Science (2024 – Present)** at Hong Kong University of Science and Technology
-- **B.Eng. (2020 – 2024)** at Shanghai Jiao Tong University (graduated June 2024)
+- **Ph.D. in Computer Science (2024-Present)** at Hong Kong University of Science and Technology
+- **B.Eng. (2020-2024)** at Shanghai Jiao Tong University (graduated June 2024)
 - **Undergraduate advisor:** Professor Junxian He, Shanghai Jiao Tong University
-- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
+- **Zhiyuan Honor Scholarship** — received at Shanghai Jiao Tong University
 
 ## Research Experience
 
-- **Research Intern at MINIMAX (February 2025 – Present)**
-- **Research Intern at Tencent WXG (June 2024 – September 2024)** — Advisor: Zifei Shan
-- **Research Intern at Shanghai AI Lab (June 2023 – December 2023)** — Advisor: Prof. Yu Cheng
+- **Research Intern at MINIMAX (February 2025 - Present)**
+- **Research Intern at Tencent WXG (June 2024 - September 2024)** — Advisor: Zifei Shan
+- **Research Intern at Shanghai AI Lab (June 2023 - December 2023)** — Advisor: Prof. Yu Cheng
 
 ## Skills
 
