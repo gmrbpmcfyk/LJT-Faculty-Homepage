@@ -20,6 +20,7 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
 - **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024 (graduated June 2024)
+- **Undergraduate advisor:** Professor Junxian He, Shanghai Jiao Tong University
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 ## Research Experience
@@ -47,9 +48,9 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 ### First-author publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv, 2025). First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv, 2025). First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024, 2024). First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He.
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv, 2025). First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code repository available.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv, 2025). First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code repository: Vision4Chart.
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024, 2024). First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. Code repository: Universal_Truthfulness_Hyperplane.
 
 ### Co-authored publications
 
