@@ -12,33 +12,34 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 ## Personal Details
 
 - **Name:** Junteng Liu
-- **Current position:** First-year PhD candidate, HKUST NLP Group
+- **Current position:** First-year PhD candidate at HKUST NLP Group
 - **Affiliation:** Hong Kong University of Science and Technology (HKUST)
 - **Supervisor:** Professor Junxian He
 
 ## Academic Background
 
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
-- **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024 (graduated June 2024)
+- **Ph.D. in Computer Science (2024 – Present)** at Hong Kong University of Science and Technology
+- **B.Eng. (2020 – 2024)** at Shanghai Jiao Tong University (graduated June 2024)
 - **Undergraduate advisor:** Professor Junxian He, Shanghai Jiao Tong University
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX, February 2025 – Present
-- **Research Intern**, Tencent WXG, June 2024 – September 2024 (Advisor: Zifei Shan)
-- **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (Advisor: Prof. Yu Cheng)
+- **Research Intern at MINIMAX (February 2025 – Present)**
+- **Research Intern at Tencent WXG (June 2024 – September 2024)** — Advisor: Zifei Shan
+- **Research Intern at Shanghai AI Lab (June 2023 – December 2023)** — Advisor: Prof. Yu Cheng
 
 ## Skills
 
 - Natural Language Processing
 - Machine Learning
-- LLM Reasoning
-- Reinforcement Learning
+- LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
 ## Research Interests
+
+Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
@@ -48,8 +49,8 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 ### First-author publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv, 2025). First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code repository available.
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv, 2025). First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code repository: Vision4Chart.
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv). First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code repository available.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv). First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code repository: Vision4Chart.
 - **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024, 2024). First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. Code repository: Universal_Truthfulness_Hyperplane.
 
 ### Co-authored publications
